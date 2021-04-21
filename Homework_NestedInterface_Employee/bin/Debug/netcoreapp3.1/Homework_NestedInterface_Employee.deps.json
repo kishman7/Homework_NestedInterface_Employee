@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework_NestedInterface_Employee/1.0.0": {
+        "runtime": {
+          "Homework_NestedInterface_Employee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework_NestedInterface_Employee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
